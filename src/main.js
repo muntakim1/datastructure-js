@@ -1,10 +1,10 @@
-import PriorityQueue from "./priorityqueue.js";
-import Queue from "./queue.js";
-import HashTable from "./hashtable.js";
-import BfsGraph from "./bfsGraph";
-import LinkedList from "./linkedlist.js";
-import BST from "./bst.js";
-import Stack from "./stack.js";
+import PriorityQueue from "../modules/priorityqueue.js";
+import Queue from "../modules/queue.js";
+import HashTable from "../modules/hashtable.js";
+import BfsGraph from "../modules/bfsGraph.js";
+import LinkedList from "../modules/linkedlist.js";
+import BST from "../modules/bst.js";
+import Stack from "../modules/stack.js";
 
 var pq = new PriorityQueue();
 pq.enqueue(["Beau Carnes", 2]);
