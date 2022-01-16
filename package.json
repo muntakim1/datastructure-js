@@ -1,0 +1,13 @@
+{
+  "name": "dsnodejs",
+  "version": "1.0.0",
+  "description": "Data Structure implementation in nodeJS",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Muntakim",
+  "license": "ISC"
+}
